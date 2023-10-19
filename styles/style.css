@@ -162,7 +162,6 @@ fieldset {
 
 .search-form__pseudo-checkbox::before {
   content: '';
-  position: absolute;
   inset: 2px;
   display: none;
   background: currentColor;
