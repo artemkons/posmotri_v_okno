@@ -266,10 +266,10 @@ fieldset {
 
 .content__video-card-description {
   max-width: 200px;
-  text-overflow: ellipsis;
-  white-space: nowrap;
   overflow: hidden;
   line-height: 0.9;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .content__card-link:hover {
